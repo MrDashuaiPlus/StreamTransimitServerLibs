@@ -1,0 +1,1 @@
+taskkill /f /T /pid 6496
